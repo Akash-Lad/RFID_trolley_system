@@ -5,9 +5,9 @@ To minimise waiting time of customers for billing products using RFID Technology
 
 As the customer goes on adding products, all products are detected by the RFID Reader module and therefore the total price will increase accordingly.
 
-In case if customer changes his/her mind and doesn’t want any product added in the trolley he/she can remove it and the price added will be deducted automatically. 
+In case if customer changes his/her mind and doesn’t want any product added in the trolley he/she can remove it and the price added will be deducted automatically. The buzzer would rise at a higher voltage when the product containing RFID will be scanned across the MFRC-522 RFID reader, thus adding the product to the total sum. 
 
-At the end of shopping the customer will press the button which when pressed adds all the product along with their price and gives the total amount to be paid.
+At the end of shopping the customer would press the button adding up all the products along with their price and giving the total amount to be paid on the 16x2 LCD display.
 
 ## Hardware implementation of Project
 
