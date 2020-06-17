@@ -1,4 +1,4 @@
-#include <SPI.h> 
+#include <SPI.h> // Serial Peripheral Interface header
 #include <MFRC522.h> // RFID Module
 #include <LiquidCrystal.h> // LCD Module
  
