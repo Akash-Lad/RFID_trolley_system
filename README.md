@@ -10,3 +10,6 @@ In case if customer changes his/her mind and doesn’t want any product added in
 At the end of shopping the customer will press the button which when pressed adds all the product along with their price and gives the total amount to be paid.
 
 ## Hardware implementation of Project
+
+<img width="881" alt="Screenshot 2020-06-17 at 12 54 18 PM" src="https://user-images.githubusercontent.com/54894091/84868359-33478a00-b09a-11ea-963d-cf7d52739739.png">
+
