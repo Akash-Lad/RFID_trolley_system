@@ -13,3 +13,11 @@ At the end of shopping the customer would press the button adding up all the pro
 
 <img width="881" alt="Screenshot 2020-06-17 at 12 54 18 PM" src="https://user-images.githubusercontent.com/54894091/84868359-33478a00-b09a-11ea-963d-cf7d52739739.png">
 
+## Components
+
+1) Arduino Uno
+2) RFID & MFRC-522 reader
+3) Buzzer, LED, Resistors
+4) 16x2 LCD Display
+5) 9 Voltage Battery
+6) 10K Potentiometer for brightness & display control
